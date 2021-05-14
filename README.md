@@ -114,4 +114,4 @@ tips：
  - 可以提前将需要突出的信息先抠出来
  
  设计的GUI效果：
-![GUI效果](imgs\\test.png)
+![GUI效果](imgs/test.png)
